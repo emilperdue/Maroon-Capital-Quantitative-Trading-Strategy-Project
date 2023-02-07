@@ -1,4 +1,4 @@
-# Maroon Capital Quantitative Trading Strategy (2022)
+# Maroon Capital Quantitative Trading Strategy Project (Winter 2022)
 
 Repository including Juptyer Notebook and presentation for 'Automated “Wheel” Options Momentum Strategy Using MACD'
 
